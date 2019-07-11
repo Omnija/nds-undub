@@ -1,6 +1,8 @@
 # NDS Undubbing
 ### Notes
-This is for Undubbing NDS Games, with a xDelta formated patches.
+This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patches.
+
+## Patches
 
 - Mega Man Battle Network 5 - Double Team DS
 - Final Fantasy IV
@@ -13,7 +15,7 @@ This is for Undubbing NDS Games, with a xDelta formated patches.
 - Disgaea DS
 - Elebits
 - Final Fantasy Crystal Chronicles Ring of Fates
-- Kingdom Hearts 3582 Days (voices only in videos, most is pure text) (Questionable)
+- Kingdom Hearts 3582 Days
 - Kingdom Hearts Re-coded
 - Luminous Arc 1 and 2
 - Lunar Knights
