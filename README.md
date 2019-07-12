@@ -6,6 +6,7 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 - Mega Man Battle Network 5 - Double Team DS
 - Final Fantasy IV
+- Lunar Knights
 
 ## To Do List
 
@@ -18,8 +19,7 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Kingdom Hearts 3582 Days
 - Kingdom Hearts Re-coded
 - Luminous Arc 1 and 2
-- Lunar Knights
-- Resident Evil DS (same amount of voices, and identical voice actors from the PS1 game, so bad it's good)
+- Resident Evil DS 
 - Sands Of Destruction
 - Star Wars Clone Wars Jedi Alliance (and Republic Heroes)
 - Suikoden Tierkreis
