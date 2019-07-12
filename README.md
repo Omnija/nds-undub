@@ -12,7 +12,6 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 - Bleach - The 3rd Phantom
 - Bleach - The Blade of Fate
-- Crash of the Titans
 - Disgaea DS
 - Elebits
 - Final Fantasy Crystal Chronicles Ring of Fates
