@@ -10,6 +10,7 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 ## Patches
 
 - Disgaea DS
+- Elebits - The Adventures of Kai and Zero
 - Mega Man Battle Network 5 - Double Team DS
 - Final Fantasy IV
 - Luminous Arc 1 and 2
@@ -19,12 +20,16 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 - Bleach - The 3rd Phantom
 - Bleach - The Blade of Fate
-- Elebits
 - Final Fantasy Crystal Chronicles Ring of Fates
 - Full Metal Alchemist DS 
 - Kingdom Hearts 3582 Days
 - Kingdom Hearts Re-coded
-- Resident Evil DS 
+- Lufia - Curse of the Sinistrals
+- Lux Pain
+- Mega Man Star Force (1, 2, 3)
+- Phantasy Star 0 (.mods editing required)
+- Resident Evil DS
+- Rondo of Swords
 - Sands Of Destruction
 - Star Wars Clone Wars Jedi Alliance (and Republic Heroes)
 - Suikoden Tierkreis
