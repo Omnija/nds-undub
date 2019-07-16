@@ -13,6 +13,7 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Elebits - The Adventures of Kai and Zero
 - Mega Man Battle Network 5 - Double Team DS
 - Final Fantasy IV
+- Final Fantasy Crystal Chronicles Ring of Fates
 - Luminous Arc 1 and 2
 - Lunar Knights
 
@@ -20,7 +21,6 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 - Bleach - The 3rd Phantom
 - Bleach - The Blade of Fate
-- Final Fantasy Crystal Chronicles Ring of Fates
 - Full Metal Alchemist DS 
 - Kingdom Hearts 3582 Days
 - Kingdom Hearts Re-coded
