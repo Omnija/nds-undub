@@ -9,6 +9,8 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 ## Patches
 
+- Bleach - The 3rd Phantom
+- Bleach - The Blade of Fate
 - Disgaea DS
 - Elebits - The Adventures of Kai and Zero
 - Mega Man Battle Network 5 - Double Team DS
@@ -19,8 +21,6 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 ## To Do List
 
-- Bleach - The 3rd Phantom
-- Bleach - The Blade of Fate
 - Full Metal Alchemist DS 
 - Kingdom Hearts 3582 Days
 - Kingdom Hearts Re-coded
