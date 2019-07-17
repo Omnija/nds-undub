@@ -16,9 +16,9 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Disgaea DS
 - Elebits - The Adventures of Kai and Zero
 - Kingdom Hearts 3582 Days - *to big to upload to github
- (https://mega.nz/#!8gtA2YyL!A0FNUv3v60-nZF3mw46G6l60rCdnzShxul6yU1GUjSQ)
+  (https://mega.nz/#!8gtA2YyL!A0FNUv3v60-nZF3mw46G6l60rCdnzShxul6yU1GUjSQ)
 - Kingdom Hearts Re-coded - *to big to upload to github
- (https://mega.nz/#!t4k0nChR!Di2Xnj02fihxQNUskP4BeVO2n248Gzhyq4VHSd-umUA)
+  (https://mega.nz/#!t4k0nChR!Di2Xnj02fihxQNUskP4BeVO2n248Gzhyq4VHSd-umUA)
 - Mega Man Battle Network 5 - Double Team DS
 - Final Fantasy IV
 - Final Fantasy Crystal Chronicles Ring of Fates
@@ -26,10 +26,10 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Luminous Arc 1 and 2
 - Lunar Knights
 - Sands Of Destruction - *to big to upload to github
- (https://mega.nz/#!E0tW2KqZ!oU8W3YwvCri_iQ-fHdi2z403tJ4lHr1JqxEZi3PlREo)
+  (https://mega.nz/#!E0tW2KqZ!oU8W3YwvCri_iQ-fHdi2z403tJ4lHr1JqxEZi3PlREo)
 - Gensou Suikoden - Tierkreis (Fix Title Screen)
 - Suikoden Tierkreis - *to big to upload to github
- (https://mega.nz/#!YlszUAhD!ID8iup6zJasyn1Tz60YbQC_zs9Mtc0HZ7vyRBvmP0m8)
+  (https://mega.nz/#!YlszUAhD!ID8iup6zJasyn1Tz60YbQC_zs9Mtc0HZ7vyRBvmP0m8)
 
 ## To Do List
  
