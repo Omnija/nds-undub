@@ -18,7 +18,8 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Final Fantasy Crystal Chronicles Ring of Fates
 - Luminous Arc 1 and 2
 - Lunar Knights
-- Suikoden Tierkreis
+- Suikoden Tierkreis - *to big to upload to github
+(https://mega.nz/#!YlszUAhD!ID8iup6zJasyn1Tz60YbQC_zs9Mtc0HZ7vyRBvmP0m8)
 
 ## To Do List
  
