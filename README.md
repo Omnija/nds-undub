@@ -25,6 +25,7 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Lufia - Curse of the Sinistrals
 - Luminous Arc 1 and 2
 - Lunar Knights
+- Lux Pain
 - Sands Of Destruction - *to big to upload to github
   (https://mega.nz/#!E0tW2KqZ!oU8W3YwvCri_iQ-fHdi2z403tJ4lHr1JqxEZi3PlREo)
 - Gensou Suikoden - Tierkreis (Fix Title Screen)
@@ -33,7 +34,6 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 ## To Do List
  
-- Lux Pain  (.vx to mods conversion required)
 - Mega Man Star Force (1, 2, 3)
 - Phantasy Star 0 (.mods editing required)
 - Resident Evil DS
