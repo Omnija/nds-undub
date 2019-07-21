@@ -18,6 +18,7 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Bleach - The Blade of Fate
 - Disgaea DS
 - Elebits - The Adventures of Kai and Zero
+- Infinite Space (Did not replace .movies - no dialog)
 - Kingdom Hearts 3582 Days - *Doesn't work unless file injected NitroEx
 - Kingdom Hearts Re-coded - *Doesn't work unless file injected NitroEx
 - Mega Man Battle Network 5 - Double Team DS
@@ -40,10 +41,8 @@ Those that need injecting, patches didn't work with ysmenu or twl++
 
 ## To Do List
  
-- Infinite Space
 - Mega Man Star Force (1, 2, 3)
 - Phantasy Star 0 (.mods editing required)
-- Resident Evil DS
-- Star Wars Clone Wars Jedi Alliance (and Republic Heroes)
+- Resident Evil - Deadly Silence (No JPN Voices)
 - Super Robot Taisen OG Saga - Endless Frontier
 - Trauma Center - Under The Knife 2
