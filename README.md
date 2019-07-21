@@ -8,6 +8,7 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 
 - Megaman ZX
 - Megaman ZX - Advent
+- The World Ends With You
 
 ## Patches
 
@@ -26,12 +27,16 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Luminous Arc 1 and 2
 - Lunar Knights
 - Lux Pain
+- Rondo of Swords
 - Sands Of Destruction - *Doesn't work unless file injected NitroEx
+- SBK Snowboard Kids
 - Gensou Suikoden - Tierkreis (Fix Title Screen)
-- Suikoden Tierkreis - *Doesn't work unless file injected NitroEx
+- Suikoden Tierkreis - *Doesn't work unless Repacked Only
+- Summon Night - Twin Age
+- Valkyrie Profile - Covenant of the Plume
 
 ### Notes
-Those that need injecting, patches didn't work with ysmenu or twl
+Those that need injecting, patches didn't work with ysmenu or twl++
 
 ## To Do List
  
@@ -39,11 +44,6 @@ Those that need injecting, patches didn't work with ysmenu or twl
 - Mega Man Star Force (1, 2, 3)
 - Phantasy Star 0 (.mods editing required)
 - Resident Evil DS
-- Rondo of Swords
-- SBK Snowboard Kids
 - Star Wars Clone Wars Jedi Alliance (and Republic Heroes)
-- Summon Night - Twin Age
 - Super Robot Taisen OG Saga - Endless Frontier
 - Trauma Center - Under The Knife 2
-- The World Ends With You
-- Valkyrie Profile - Covenant of the Plume
