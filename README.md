@@ -3,6 +3,8 @@
 This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patches.
 - For those files too large
     -I will try to reverse the process and patch the jpn with english text
+    
+Those that need injecting, patches didn't work with ysmenu or twl++
 
 ## Already Available (GBA Temp)
 
@@ -35,9 +37,6 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
 - Suikoden Tierkreis - *Doesn't work unless Repacked Only
 - Summon Night - Twin Age
 - Valkyrie Profile - Covenant of the Plume
-
-### Notes
-Those that need injecting, patches didn't work with ysmenu or twl++
 
 ## To Do List
  
