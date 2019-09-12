@@ -24,6 +24,8 @@ Those that need injecting, patches didn't work with ysmenu or twl++
 - Kingdom Hearts 3582 Days - *Doesn't work unless file injected NitroEx
 - Kingdom Hearts Re-coded - *Doesn't work unless file injected NitroEx
 - Mega Man Battle Network 5 - Double Team DS
+- Mega Man Star Force - Dragon
+- Mega Man Star Force 2 - Zerker x Ninja
 - Final Fantasy IV
 - Final Fantasy Crystal Chronicles Ring of Fates
 - Lufia - Curse of the Sinistrals *Doesn't work unless file injected NitroEx (Sound Breaks)
@@ -34,7 +36,7 @@ Those that need injecting, patches didn't work with ysmenu or twl++
 - Sands Of Destruction - *Doesn't work unless file injected NitroEx
 - SBK Snowboard Kids
 - Gensou Suikoden - Tierkreis (Fix Title Screen)
-- Suikoden Tierkreis - *Doesn't work unless Repacked Only
+- Suikoden Tierkreis - *Doesn't work unless Repacked Only & Breaks Starting Battles
 - Summon Night - Twin Age
 - Valkyrie Profile - Covenant of the Plume
 
