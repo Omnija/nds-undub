@@ -35,6 +35,7 @@ Those that need injecting, patches didn't work with ysmenu or twl++
 - Rondo of Swords
 - Sands Of Destruction - *Doesn't work unless file injected NitroEx
 - SBK Snowboard Kids
+- Sonic Colors
 - Gensou Suikoden - Tierkreis (Fix Title Screen)
 - Suikoden Tierkreis - *Doesn't work unless Repacked Only & Breaks Starting Battles
 - Summon Night - Twin Age
