@@ -6,6 +6,8 @@ This is for Undubbing NDS Games (Sound and Voices), with a xDelta formated patch
     
 Those that need injecting, patches didn't work with ysmenu or twl++
 
+Patches are applyed to USA region
+
 ## Already Available (GBA Temp)
 
 - Megaman ZX
